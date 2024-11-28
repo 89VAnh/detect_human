@@ -1,0 +1,4 @@
+opencv-python==4.10.0.84
+pyserial==3.5
+ultralytics==8.2.102
+ultralytics-thop==2.0.8
